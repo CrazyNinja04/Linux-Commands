@@ -38,7 +38,7 @@ TIME: tiempo de CPU acumulado
 COMMAND: comando con todos sus argumentos
 
 - htop: Es un visor de procesos para Linux, similar al comando top, pero más visual.
--pstree: Visualiza el árbol de procesos en Linux.
+- pstree: Visualiza el árbol de procesos en Linux.
 
 
 
