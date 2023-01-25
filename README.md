@@ -16,13 +16,13 @@
 
 - sudo apt install: Sirve para instalar nuevos paquetes
 
--sudo apt search: Busca la aplicación y da detalles de la misma
+- sudo apt search: Busca la aplicación y da detalles de la misma
 
--sudo rm -Rf /: El rm: borra archivos/directorios
+- sudo rm -Rf /: El rm: borra archivos/directorios
  y -f: le dice a rm que borre todo ignorando toda confirmación 
  Por último / le indica el directorio 
 
--ps aux: Muestra una tabla donde cada fila es un proceso y las columnas contienen la siguiente información:
+- ps aux: Muestra una tabla donde cada fila es un proceso y las columnas contienen la siguiente información:
 
 USER: usuario con el que se ejecuta el proceso
 PID: ID del proceso
@@ -36,7 +36,7 @@ STARTED: fecha de inicio del proceso
 TIME: tiempo de CPU acumulado
 COMMAND: comando con todos sus argumentos
 
--htop: Es un visor de procesos para Linux, similar al comando top, pero más visual.
+- htop: Es un visor de procesos para Linux, similar al comando top, pero más visual.
 
 
 
