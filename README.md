@@ -36,4 +36,7 @@ STARTED: fecha de inicio del proceso
 TIME: tiempo de CPU acumulado
 COMMAND: comando con todos sus argumentos
 
--htop: Es un visor de procesos para Linux, similar al comando top, pero más visual
+-htop: Es un visor de procesos para Linux, similar al comando top, pero más visual.
+
+
+
