@@ -1,6 +1,6 @@
 # Linux-Commands
 
--sudo: Ejecuta como superusuario
+- sudo: Ejecuta como superusuario
 
 - ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados
 
