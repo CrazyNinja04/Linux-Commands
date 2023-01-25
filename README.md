@@ -3,7 +3,9 @@
 - sudo: Ejecuta como superusuario
 Ejemplo: $ sudo -u ana /comando/de/ana
 
-- ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados
+- ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados. 
+- Ejemplo: ls/nombre-directorio
+Lista el contenido del directorio indicado.
 
 - top: Muestra la vista de los procesos en ejecución en Linux en tiempo real y muestra las tareas administradas por el kernel
 
