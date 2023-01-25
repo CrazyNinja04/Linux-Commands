@@ -1,13 +1,13 @@
 # Linux-Commands
 
 - sudo: Ejecuta como superusuario.
-Ejemplo: $ sudo -u ana /comando/de/ana
+Ejemplo: $ sudo -u laura /comando/de/laura
 
-- ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados. Ejemplo: ls/nombre-directorio
+- ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados. Ejemplo: "ls/nombre-directorio"
 
-- top: Muestra la vista de los procesos en ejecución en Linux en tiempo real y muestra las tareas administradas por el kernel.
+- top: Muestra la vista de los procesos en ejecución en Linux en tiempo real y muestra las tareas administradas por el kernel.Ejemplo: "top -i" para filtrar la top salida para mostrar solo los procesos que consumen CPU.
 
-- kill: Se usa para cerrar un proceso o para terminarlo de manera manual.
+- kill: Se usa para cerrar un proceso o para terminarlo de manera manual.Ejemplo: "Kill 0" Detiene todos los procesos excepto su shell de inicio de sesión.
 
 - sudo apt-get update : Usado para actualizar los paquetes.
 
@@ -17,7 +17,7 @@ Ejemplo: $ sudo -u ana /comando/de/ana
 
 - sudo apt install: Sirve para instalar nuevos paquetes.
 
-- sudo apt search: Busca la aplicación y da detalles de la misma.
+- sudo apt search: Busca la aplicación y da detalles de la misma. Ejemplo: $ sudo apt search httpd* busca archivos con el nombre httpd
 
 - sudo rm -Rf /: El rm: borra archivos/directorios
  y -f: le dice a rm que borre todo ignorando toda confirmación 
@@ -38,7 +38,7 @@ TIME: tiempo de CPU acumulado
 COMMAND: comando con todos sus argumentos
 
 - htop: Es un visor de procesos para Linux, similar al comando top, pero más visual.
-- pstree: Visualiza el árbol de procesos en Linux.
+- pstree: Visualiza el árbol de procesos en Linux. Ejemplo: pstree -H [PID] resalta un proceso en específico que le indiquemos
 
 
 
