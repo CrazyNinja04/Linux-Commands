@@ -3,25 +3,21 @@
 - sudo: Ejecuta como superusuario.
 Ejemplo: $ sudo -u ana /comando/de/ana
 
-- ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados. 
-Ejemplo: ls/nombre-directorio
-Lista el contenido del directorio indicado.
+- ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados. Ejemplo: ls/nombre-directorio
 
+- top: Muestra la vista de los procesos en ejecución en Linux en tiempo real y muestra las tareas administradas por el kernel.
 
+- kill: Se usa para cerrar un proceso o para terminarlo de manera manual.
 
-- top: Muestra la vista de los procesos en ejecución en Linux en tiempo real y muestra las tareas administradas por el kernel
+- sudo apt-get update : Usado para actualizar los paquetes.
 
-- kill: Se usa para cerrar un proceso o para terminarlo de manera manual
+- sudo apt-get upgrade : funciona para actualizar el sistema de Linux, incluyendo los paquetes de seguridad.
 
-- sudo apt-get update : Usado para actualizar los paquetes
+- clear: Borra toda la información del terminal y lo deja como si fuera nuevo.
 
-- sudo apt-get upgrade : funciona para actualizar el sistema de Linux, incluyendo los paquetes de seguridad
+- sudo apt install: Sirve para instalar nuevos paquetes.
 
-- clear: Borra toda la información del terminal y lo deja como si fuera nuevo
-
-- sudo apt install: Sirve para instalar nuevos paquetes
-
-- sudo apt search: Busca la aplicación y da detalles de la misma
+- sudo apt search: Busca la aplicación y da detalles de la misma.
 
 - sudo rm -Rf /: El rm: borra archivos/directorios
  y -f: le dice a rm que borre todo ignorando toda confirmación 
@@ -42,6 +38,8 @@ TIME: tiempo de CPU acumulado
 COMMAND: comando con todos sus argumentos
 
 - htop: Es un visor de procesos para Linux, similar al comando top, pero más visual.
+-pstree: Visualiza el árbol de procesos en Linux.
+
 
 
 
