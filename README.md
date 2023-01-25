@@ -1,6 +1,7 @@
 # Linux-Commands
 
 - sudo: Ejecuta como superusuario
+Ejemplo: $ sudo -u ana /comando/de/ana
 
 - ls:Enumera el contenido del directorio que desee, archivos y otros directorios anidados
 
